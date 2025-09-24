@@ -1,0 +1,11 @@
+streamlit
+streamlit-option-menu
+pandas
+matplotlib
+seaborn
+nltk
+joblib
+wordcloud
+scikit-learn
+openai
+altair
