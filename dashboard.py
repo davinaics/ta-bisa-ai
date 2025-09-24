@@ -63,7 +63,7 @@ model = joblib.load("rf_model.pkl")
 # 1️⃣ EDA TAB
 # ============================================================
 if selected == "EDA":
-    st.header("🔎 Exploratory Data Analysis")
+    st.header("🔎 Exploratory Data Analysis Penjualan")
     maroon = "#550000"
     darkgreen = "darkgreen"
 
@@ -384,7 +384,7 @@ if selected == "EDA":
 # 2️⃣ MODELLING TAB
 # ============================================================
 elif selected == "Modelling":
-    st.header("🤖 Modelling & Evaluation")
+    st.header("🤖 Modeling, Evaluation & Prediction")
     st.caption("Model yang Digunakan: **Random Forest Classifier**")
 
     # Data Preparation 
@@ -474,7 +474,7 @@ elif selected == "Modelling":
 # 3️⃣ CHATBOT TAB
 # ============================================================
 elif selected == "Chatbot":
-    st.header("Chatbot Analisis Review (RAG-Based) 💬")
+    st.header("💬 Chatbot Analisis Review (RAG-Based)")
     if "Customer Review" not in df_model.columns:
         st.error("CSV harus mempunyai kolom *Customer Review*!")
         st.stop()
