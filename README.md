@@ -113,6 +113,7 @@ The dashboard consists of 3 main tabs:
 ---
 
 ## 🗂️ Project Structure
+```bash
 TugasAkhir/
 │
 ├── dashboard.py
@@ -124,6 +125,7 @@ TugasAkhir/
 ├── .streamlit/
 │ └── secrets.toml
 └── README.md
+```
 
 ---
 
