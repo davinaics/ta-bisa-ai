@@ -15,17 +15,17 @@ The dataset used in this project is **PRDECT-ID**, a comprehensive Indonesian pr
 The dataset was obtained from **Kaggle** and originally sourced from **Tokopedia**, covering **29 product categories**.
 
 ### Dataset Columns:
-- Category  
-- Product Name  
-- Location  
-- Price  
-- Overall Rating  
-- Number Sold  
-- Total Review  
-- Customer Rating  
-- Customer Review  
-- Sentiment  
-- Emotion
+- `Category`  
+- `Product Name`  
+- `Location`  
+- `Price`  
+- `Overall Rating`  
+- `Number Sold`  
+- `Total Review`  
+- `Customer Rating`  
+- `Customer Review`  
+- `Sentiment`  
+- `Emotion`
 
 Source: https://www.kaggle.com/datasets/jocelyndumlao/prdect-id-indonesian-emotion-classification 
 
