@@ -33,12 +33,7 @@ Source: https://www.kaggle.com/datasets/jocelyndumlao/prdect-id-indonesian-emoti
 
 ## 🔄 Project Stages
 
-### 1️⃣ Data Collection
-Customer reviews were collected from the PRDECT-ID dataset, which contains annotated sentiment and emotion labels for Indonesian-language reviews.
-
----
-
-### 2️⃣ Data Preprocessing
+### 1️⃣ Data Preprocessing
 
 Two types of data were processed:
 
@@ -57,7 +52,7 @@ Two types of data were processed:
 
 ---
 
-### 3️⃣ Analysis and Modeling
+### 2️⃣ Analysis and Modeling
 
 - Text representation using **TF-IDF Vectorizer**
 - Sentiment classification using **Random Forest Classifier**
